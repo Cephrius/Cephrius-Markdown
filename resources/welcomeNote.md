@@ -1,6 +1,6 @@
-## Welcome to NoteMark 👋🏻
+## Welcome to Cephrius Markdown 👋🏻
 
-NoteMark is a simple **note-taking app** that uses **Markdown** syntax to format your notes.
+Cephrius Markdown is a simple **note-taking app** that uses **Markdown** syntax to format your notes.
 
 You can create your first note by clicking on the top-left icon on the sidebar, or delete one by clicking on top right icon.
 
@@ -52,3 +52,6 @@ Code block snippets using the following syntax _\`\`\`js\`\`\`_ are **_not suppo
 ### Links
 
 Links are **_not supported_** yet!
+
+
+**Stay tuned for more updates.**
