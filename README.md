@@ -1,7 +1,10 @@
 # Cephrius Markdown
 
 Cephrius Markdown is a markdown editor for all your markdown files. A minimal Note taking app with out-of-the-box markdown support.
+##
 ![Preview](https://github.com/Cephrius/Cephrius-Markdown/blob/main/resources/CephriusMarkdownPreview.png)
+##
+
 
 ## Recommended IDE Setup
 
