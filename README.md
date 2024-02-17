@@ -1,6 +1,6 @@
-# cephrius_markdown-app
+# Cephrius Markdown
 
-Cephrius Markdown is a markdown editor for all your markdown files.
+Cephrius Markdown is a markdown editor for all your markdown files. A minimal Note taking app with out-of-the-box markdown support.
 
 ## Recommended IDE Setup
 
@@ -17,18 +17,18 @@ $ npm install
 ### Development
 
 ```bash
-$ npm run dev
+$ yarn run dev
 ```
 
 ### Build
 
 ```bash
 # For windows
-$ npm run build:win
+$ yarn run build:win
 
 # For macOS
-$ npm run build:mac
+$ yarn run build:mac
 
 # For Linux
-$ npm run build:linux
+$ yarn run build:linux
 ```
